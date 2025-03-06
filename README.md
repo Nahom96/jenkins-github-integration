@@ -1,4 +1,3 @@
-# jenkins-github-integration
+# Testing GitHub Webhook with Jenkins
 
-# Jenkins GitHub Integration  
 This is a test for Jenkins GitHub webhook trigger.
